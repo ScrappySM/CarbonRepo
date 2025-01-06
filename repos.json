@@ -48,6 +48,10 @@
         {
             "ghUser": "ScrappySM",
             "ghRepo": "Network-Checksum-Disabler"
-        }
-    ]
+        },
+		{
+			"ghUser": "ScrappySM",
+			"ghRepo": "DevCheckBypass"
+		}
+	]
 }
