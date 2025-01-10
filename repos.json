@@ -57,6 +57,10 @@
 		{
 			"ghUser": "ScrappySM",
 			"ghRepo": "DevCheckBypass"
+		},
+		{
+			"ghUser": "ScrappySM",
+			"ghRepo": "SM-ForceDevMode"
 		}
 	]
 }
