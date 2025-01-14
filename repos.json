@@ -1,6 +1,11 @@
 {
 	"mods": {
 		"game": [
+			"VeraDev0/SM-NoAutoSmartPhysics",
+			"ScrappySM/Network-Checksum-Disabler",
+			"ScrappySM/DevCheckBypass",
+			"ScrappySM/SM-ForceDevMode",
+			
 			{
 				"name": "Networking Fix",
 				"description": "Stops Scrap Mechanic client from stalling packets. Fixes pretty much all the networking issues.",
@@ -46,22 +51,6 @@
 				],
 				"ghUser": "QuestionableM",
 				"ghRepo": "SM-CustomAudioExtension"
-			},
-			{
-				"ghUser": "VeraDev0",
-				"ghRepo": "SM-NoAutoSmartPhysics"
-			},
-			{
-				"ghUser": "ScrappySM",
-				"ghRepo": "Network-Checksum-Disabler"
-			},
-			{
-				"ghUser": "ScrappySM",
-				"ghRepo": "DevCheckBypass"
-			},
-			{
-				"ghUser": "ScrappySM",
-				"ghRepo": "SM-ForceDevMode"
 			}
 		],
 		"modtool": []
