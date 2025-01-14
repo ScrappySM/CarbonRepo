@@ -1,5 +1,6 @@
 {
 	"mods": [
+		"game": [
 		{
 			"name": "Networking Fix",
 			"description": "Stops Scrap Mechanic client from stalling packets. Fixes pretty much all the networking issues.",
@@ -62,5 +63,6 @@
 			"ghUser": "ScrappySM",
 			"ghRepo": "SM-ForceDevMode"
 		}
+		]
 	]
 }
