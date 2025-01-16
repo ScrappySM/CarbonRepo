@@ -5,6 +5,7 @@
 			"ScrappySM/Network-Checksum-Disabler",
 			"ScrappySM/DevCheckBypass",
 			"ScrappySM/SM-ForceDevMode",
+			"ScrappySM/SM-KeyAPI",
 			
 			{
 				"name": "Networking Fix",
