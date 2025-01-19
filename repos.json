@@ -6,6 +6,7 @@
 			"ScrappySM/DevCheckBypass",
 			"ScrappySM/SM-ForceDevMode",
 			"ScrappySM/SM-KeyAPI",
+			"ScrappySM/SM-LuaExecutor",
 			
 			{
 				"name": "Networking Fix",
