@@ -2,7 +2,7 @@
 	"dlls": [
 		{
 			"name": "SM-LuaConsole",
-			"author": "BenMcAvoy",
+			"authors": [ "BenMcAvoy" ],
 			"description": "A lua console for live execution of Lua code from a GUI in Scrap Mechanic",
 			"commitHash": "abcdef",
 			"files": [
