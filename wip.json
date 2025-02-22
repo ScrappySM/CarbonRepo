@@ -17,7 +17,10 @@
 		},
 		{
 			"name": "Networking Fix",
-			"author": "QuestionableM, ColdMeekly",
+			"authors": [
+				"QuestionableM",
+				"ColdMeekly"
+			],
 			"description": "Stops Scrap Mechanic client from stalling packets. Fixes pretty much all the networking issues.",
 			"commitHash": "abcdef",
 			"files": [
@@ -30,7 +33,9 @@
 		},
 		{
 			"name": "Proximity Voice Chat",
-			"author": "QuestionableM",
+			"authors": [
+				"QuestionableM"
+			],
 			"description": "A Scrap Mechanic DLL mod which adds the Proximity Voice Chat into the game",
 			"commitHash": "abcdef",
 			"files": [
@@ -43,7 +48,9 @@
 		},
 		{
 			"name": "Better Paint Tool",
-			"author": "QuestionableM",
+			"authors": [
+				"QuestionableM"
+			],
 			"description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!",
 			"commitHash": "abcdef",
 			"files": [
@@ -56,7 +63,9 @@
 		},
 		{
 			"name": "Dynamic Sun",
-			"author": "QuestionableM",
+			"authors": [
+				"QuestionableM"
+			],
 			"description": "A Scrap Mechanic DLL mod which makes the sun dynamic by letting you adjust the angle!",
 			"commitHash": "abcdef",
 			"files": [
@@ -69,7 +78,9 @@
 		},
 		{
 			"name": "Custom Audio Extensions",
-			"author": "QuestionableM",
+			"authors": [
+				"QuestionableM"
+			],
 			"description": "A mod to add custom audio support for Scrap Mechanic workshop mods",
 			"commitHash": "abcdef",
 			"files": [
