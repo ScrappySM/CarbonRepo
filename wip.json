@@ -1,16 +1,17 @@
 {
-  "dlls": [
-    {
-      "name": "SM-LuaConsole",
-      "author": "BenMcAvoy",
-      "description": "A lua console for live execution of Lua code from a GUI in Scrap Mechanic",
-      "commitHash": "abcdef"
-      
-      "files": [
-        "name": "SM-LuaConsole.dll",
-        "url": "https://github.com/SCrappySM/SM-LuaConsole/releases/download/1.0.0/SM-LuaConsole.dll",
-        "hash": "abcdef"
-      ]
-    } 
-  ]
+	"dlls": [
+		{
+			"name": "SM-LuaConsole",
+			"author": "BenMcAvoy",
+			"description": "A lua console for live execution of Lua code from a GUI in Scrap Mechanic",
+			"commitHash": "abcdef",
+			"files": [
+				{
+					"name": "SM-LuaConsole.dll",
+					"url": "https://github.com/SCrappySM/SM-LuaConsole/releases/download/1.0.0/SM-LuaConsole.dll",
+					"hash": "abcdef"
+				}
+			]
+		}
+	]
 }
