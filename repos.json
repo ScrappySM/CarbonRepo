@@ -54,6 +54,15 @@
 				],
 				"ghUser": "QuestionableM",
 				"ghRepo": "SM-CustomAudioExtension"
+			},
+			{
+				"name": "SMGuiRefresh",
+				"description": "This .dll will bind F5 to refresh the InGame GUI/resources",
+				"authors": [
+					"StoodJarguar657"
+				],
+				"ghUser": "StoodJarguar657",
+				"ghRepo": "SMGuiRefresh"
 			}
 		],
 		"modtool": []
