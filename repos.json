@@ -8,6 +8,7 @@
 			"ScrappySM/SM-KeyAPI",
 			"ScrappySM/SM-LuaConsole",
 			"ScrappySM/SM-LoadString",
+			"ReDoIngMods/SM-NoFileExistError",
 			
 			{
 				"name": "Networking Fix",
