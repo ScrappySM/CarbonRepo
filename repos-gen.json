@@ -1,0 +1,283 @@
+[
+    {
+        "url": "VeraDev0/SM-NoAutoSmartPhysics",
+        "owner": "VeraDev0",
+        "repo": "SM-NoAutoSmartPhysics",
+        "default_branch": "main",
+        "manifest": {
+            "name": "No Auto Smart Physics",
+            "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
+            "authors": [
+                "VeraDev0"
+            ],
+            "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ScrappySM/Network-Checksum-Disabler",
+        "owner": "ScrappySM",
+        "repo": "Network-Checksum-Disabler",
+        "default_branch": "main",
+        "manifest": {
+            "name": "Network Checksum Disabler",
+            "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler",
+            "authors": [
+                "crackx02"
+            ],
+            "description": "Disables the multiplayer game files checksum in Scrap Mechanic"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ScrappySM/Network-Checksum-Disabler/releases/download/v1.0.1/NetworkChecksumDisabler.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ScrappySM/DevCheckBypass",
+        "owner": "ScrappySM",
+        "repo": "DevCheckBypass",
+        "default_branch": "main",
+        "manifest": {
+            "name": "DevCheckBypass",
+            "url": "https://github.com/ScrappySM/DevCheckBypass",
+            "authors": [
+                "BenMcAvoy"
+            ],
+            "description": "This mod disabled the dev check in the game stopping you from joining someone who does or doesn't have dev mode enabled."
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.0/DevCheckBypass.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ScrappySM/SM-ForceDevMode",
+        "owner": "ScrappySM",
+        "repo": "SM-ForceDevMode",
+        "default_branch": "main",
+        "manifest": {
+            "name": "SM-ForceDevMode",
+            "url": "https://github.com/ScrappySM/SM-ForceDevMode",
+            "authors": [
+                "BenMcAvoy"
+            ],
+            "description": "Force enables the developer flag, useful if you want dev mode but not a console (e.g. where Carbon Launcher already has a console, so the game's one is useless)"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.0/SM-ForceDevMode.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ScrappySM/SM-KeyAPI",
+        "owner": "ScrappySM",
+        "repo": "SM-KeyAPI",
+        "default_branch": "main",
+        "manifest": {
+            "name": "SM-KeyAPI",
+            "url": "https://github.com/ScrappySM/SM-KeyAPI",
+            "authors": [
+                "BenMcAvoy"
+            ],
+            "description": "Extends the SM Lua API to query any keyboard input."
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ScrappySM/SM-LuaConsole",
+        "owner": "ScrappySM",
+        "repo": "SM-LuaConsole",
+        "default_branch": "main",
+        "manifest": {
+            "name": "SM-LuaConsole",
+            "url": "https://github.com/ScrappySM/SM-LuaConsole",
+            "authors": [
+                "BenMcAvoy"
+            ],
+            "description": "A Lua Console for Scrap Mechanic, allows you to execute Lua once, on Lua env initialization and every tick."
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ScrappySM/SM-LoadString",
+        "owner": "ScrappySM",
+        "repo": "SM-LoadString",
+        "default_branch": "main",
+        "manifest": {
+            "name": "SM-LoadString",
+            "url": "https://github.com/ScrappySM/SM-LoadString",
+            "authors": [
+                "BenMcAvoy"
+            ],
+            "description": "Allows modders to load strings from UGC mods as Lua code."
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ScrappySM/SM-LoadString/releases/download/v1.0.2/SM-LoadString.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "ReDoIngMods/SM-NoFileExistError",
+        "owner": "ReDoIngMods",
+        "repo": "SM-NoFileExistError",
+        "default_branch": "main",
+        "manifest": {
+            "name": "SM-NoFileExistError",
+            "url": "https://github.com/ReDoIngMods/SM-NoFileExistError",
+            "authors": [
+                "VeraDev0"
+            ],
+            "description": "Removes that pesky `Unable to replace key for path` error which gets used in sm.json.fileExists!"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/ReDoIngMods/SM-NoFileExistError/releases/download/v1.0/SM-NoFileExistError.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "StoodJarguar657/SMGuiRefresh",
+        "owner": "StoodJarguar657",
+        "repo": "SMGuiRefresh",
+        "default_branch": "main",
+        "manifest": {
+            "name": "SMGuiRefresh",
+            "url": "https://github.com/StoodJarguar657",
+            "authors": [
+                "StoodJarguar657"
+            ],
+            "description": "Binds F5 to refresh the InGame GUI/textures"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll"
+            ]
+        },
+        "manuallyPopulated": false
+    },
+    {
+        "url": "https://github.com/Scrap-Mods/Networking-Fix",
+        "owner": "Scrap-Mods",
+        "repo": "Networking-Fix",
+        "default_branch": "main",
+        "manifest": {
+            "name": "Networking Fix",
+            "url": "https://github.com/Scrap-Mods/Networking-Fix",
+            "authors": [
+                "QuestionableM",
+                "ColdMeekly"
+            ],
+            "description": "Stops Scrap Mechanic client from stalling packets. Fixes pretty much all the networking issues."
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll"
+            ]
+        },
+        "manuallyPopulated": true
+    },
+    {
+        "url": "https://github.com/QuestionableM/SM-ProximityVoiceChat",
+        "owner": "QuestionableM",
+        "repo": "SM-ProximityVoiceChat",
+        "default_branch": "main",
+        "manifest": {
+            "name": "Proximity Voice Chat",
+            "url": "https://github.com/QuestionableM/SM-ProximityVoiceChat",
+            "authors": [
+                "QuestionableM"
+            ],
+            "description": "A Scrap Mechanic DLL mod which adds the Proximity Voice Chat into the game"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/QuestionableM/SM-ProximityVoiceChat/releases/download/v1.3.3/SM-ProximityVoiceChat.dll"
+            ]
+        },
+        "manuallyPopulated": true
+    },
+    {
+        "url": "https://github.com/QuestionableM/SM-BetterPaintTool",
+        "owner": "QuestionableM",
+        "repo": "SM-BetterPaintTool",
+        "default_branch": "main",
+        "manifest": {
+            "name": "Better Paint Tool",
+            "url": "https://github.com/QuestionableM/SM-BetterPaintTool",
+            "authors": [
+                "QuestionableM"
+            ],
+            "description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll"
+            ]
+        },
+        "manuallyPopulated": true
+    },
+    {
+        "url": "https://github.com/QuestionableM/SM-DynamicSun",
+        "owner": "QuestionableM",
+        "repo": "SM-DynamicSun",
+        "default_branch": "main",
+        "manifest": {
+            "name": "Dynamic Sun",
+            "url": "https://github.com/QuestionableM/SM-DynamicSun",
+            "authors": [
+                "QuestionableM"
+            ],
+            "description": "A Scrap Mechanic DLL mod which makes the sun dynamic by letting you adjust the angle!"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll"
+            ]
+        },
+        "manuallyPopulated": true
+    },
+    {
+        "url": "https://github.com/QuestionableM/SM-CustomAudioExtension",
+        "owner": "QuestionableM",
+        "repo": "SM-CustomAudioExtension",
+        "default_branch": "main",
+        "manifest": {
+            "name": "Custom audio extensions",
+            "url": "https://github.com/QuestionableM/SM-CustomAudioExtension",
+            "authors": [
+                "QuestionableM"
+            ],
+            "description": "A mod to add custom audio support for Scrap Mechanic workshop mods"
+        },
+        "downloaddata": {
+            "urls": [
+                "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.4/CustomAudioExtension.dll"
+            ]
+        },
+        "manuallyPopulated": true
+    }
+]
