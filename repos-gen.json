@@ -13,12 +13,9 @@
             "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll"
-            ],
-            "names": [
-                "SM-NoAutoSmartPhysics.dll"
-            ]
+            "files": {
+                "SM-NoAutoSmartPhysics.dll": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -36,12 +33,9 @@
             "description": "Disables the multiplayer game files checksum in Scrap Mechanic"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ScrappySM/Network-Checksum-Disabler/releases/download/v1.0.1/NetworkChecksumDisabler.dll"
-            ],
-            "names": [
-                "NetworkChecksumDisabler.dll"
-            ]
+            "files": {
+                "NetworkChecksumDisabler.dll": "https://github.com/ScrappySM/Network-Checksum-Disabler/releases/download/v1.0.1/NetworkChecksumDisabler.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -59,12 +53,9 @@
             "description": "This mod disabled the dev check in the game stopping you from joining someone who does or doesn't have dev mode enabled."
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.0/DevCheckBypass.dll"
-            ],
-            "names": [
-                "DevCheckBypass.dll"
-            ]
+            "files": {
+                "DevCheckBypass.dll": "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.0/DevCheckBypass.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -82,12 +73,9 @@
             "description": "Force enables the developer flag, useful if you want dev mode but not a console (e.g. where Carbon Launcher already has a console, so the game's one is useless)"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.0/SM-ForceDevMode.dll"
-            ],
-            "names": [
-                "SM-ForceDevMode.dll"
-            ]
+            "files": {
+                "SM-ForceDevMode.dll": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.0/SM-ForceDevMode.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -105,12 +93,9 @@
             "description": "Extends the SM Lua API to query any keyboard input."
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll"
-            ],
-            "names": [
-                "SM-KeyAPI.dll"
-            ]
+            "files": {
+                "SM-KeyAPI.dll": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -128,12 +113,9 @@
             "description": "A Lua Console for Scrap Mechanic, allows you to execute Lua once, on Lua env initialization and every tick."
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll"
-            ],
-            "names": [
-                "SM-LuaConsole.dll"
-            ]
+            "files": {
+                "SM-LuaConsole.dll": "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -151,12 +133,9 @@
             "description": "Allows modders to load strings from UGC mods as Lua code."
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ScrappySM/SM-LoadString/releases/download/v1.0.2/SM-LoadString.dll"
-            ],
-            "names": [
-                "SM-LoadString.dll"
-            ]
+            "files": {
+                "SM-LoadString.dll": "https://github.com/ScrappySM/SM-LoadString/releases/download/v1.0.2/SM-LoadString.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -174,12 +153,9 @@
             "description": "Removes that pesky `Unable to replace key for path` error which gets used in sm.json.fileExists!"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/ReDoIngMods/SM-NoFileExistError/releases/download/v1.0/SM-NoFileExistError.dll"
-            ],
-            "names": [
-                "SM-NoFileExistError.dll"
-            ]
+            "files": {
+                "SM-NoFileExistError.dll": "https://github.com/ReDoIngMods/SM-NoFileExistError/releases/download/v1.0/SM-NoFileExistError.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -197,12 +173,9 @@
             "description": "Binds F5 to refresh the InGame GUI/textures"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll"
-            ],
-            "names": [
-                "SMGuiRefresh.dll"
-            ]
+            "files": {
+                "SMGuiRefresh.dll": "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll"
+            }
         },
         "manuallyPopulated": false
     },
@@ -221,12 +194,9 @@
             "description": "Stops Scrap Mechanic client from stalling packets. Fixes pretty much all the networking issues."
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll"
-            ],
-            "names": [
-                "NetworkingFix.dll"
-            ]
+            "files": {
+                "NetworkingFix.dll": "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll"
+            }
         },
         "manuallyPopulated": true
     },
@@ -244,12 +214,9 @@
             "description": "A Scrap Mechanic DLL mod which adds the Proximity Voice Chat into the game"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/QuestionableM/SM-ProximityVoiceChat/releases/download/v1.3.3/SM-ProximityVoiceChat.dll"
-            ],
-            "names": [
-                "SM-ProximityVoiceChat.dll"
-            ]
+            "files": {
+                "SM-ProximityVoiceChat.dll": "https://github.com/QuestionableM/SM-ProximityVoiceChat/releases/download/v1.3.3/SM-ProximityVoiceChat.dll"
+            }
         },
         "manuallyPopulated": true
     },
@@ -267,12 +234,9 @@
             "description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll"
-            ],
-            "names": [
-                "SM-BetterPaintTool.dll"
-            ]
+            "files": {
+                "SM-BetterPaintTool.dll": "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll"
+            }
         },
         "manuallyPopulated": true
     },
@@ -290,12 +254,9 @@
             "description": "A Scrap Mechanic DLL mod which makes the sun dynamic by letting you adjust the angle!"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll"
-            ],
-            "names": [
-                "DynamicSun.dll"
-            ]
+            "files": {
+                "DynamicSun.dll": "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll"
+            }
         },
         "manuallyPopulated": true
     },
@@ -313,12 +274,9 @@
             "description": "A mod to add custom audio support for Scrap Mechanic workshop mods"
         },
         "downloaddata": {
-            "urls": [
-                "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.4/CustomAudioExtension.dll"
-            ],
-            "names": [
-                "CustomAudioExtension.dll"
-            ]
+            "files": {
+                "CustomAudioExtension.dll": "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.4/CustomAudioExtension.dll"
+            }
         },
         "manuallyPopulated": true
     }
