@@ -15,6 +15,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll"
+            ],
+            "names": [
+                "SM-NoAutoSmartPhysics.dll"
             ]
         },
         "manuallyPopulated": false
@@ -35,6 +38,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ScrappySM/Network-Checksum-Disabler/releases/download/v1.0.1/NetworkChecksumDisabler.dll"
+            ],
+            "names": [
+                "NetworkChecksumDisabler.dll"
             ]
         },
         "manuallyPopulated": false
@@ -55,6 +61,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.0/DevCheckBypass.dll"
+            ],
+            "names": [
+                "DevCheckBypass.dll"
             ]
         },
         "manuallyPopulated": false
@@ -75,6 +84,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.0/SM-ForceDevMode.dll"
+            ],
+            "names": [
+                "SM-ForceDevMode.dll"
             ]
         },
         "manuallyPopulated": false
@@ -95,6 +107,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll"
+            ],
+            "names": [
+                "SM-KeyAPI.dll"
             ]
         },
         "manuallyPopulated": false
@@ -115,6 +130,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll"
+            ],
+            "names": [
+                "SM-LuaConsole.dll"
             ]
         },
         "manuallyPopulated": false
@@ -135,6 +153,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ScrappySM/SM-LoadString/releases/download/v1.0.2/SM-LoadString.dll"
+            ],
+            "names": [
+                "SM-LoadString.dll"
             ]
         },
         "manuallyPopulated": false
@@ -155,6 +176,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/ReDoIngMods/SM-NoFileExistError/releases/download/v1.0/SM-NoFileExistError.dll"
+            ],
+            "names": [
+                "SM-NoFileExistError.dll"
             ]
         },
         "manuallyPopulated": false
@@ -175,6 +199,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll"
+            ],
+            "names": [
+                "SMGuiRefresh.dll"
             ]
         },
         "manuallyPopulated": false
@@ -196,6 +223,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll"
+            ],
+            "names": [
+                "NetworkingFix.dll"
             ]
         },
         "manuallyPopulated": true
@@ -216,6 +246,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/QuestionableM/SM-ProximityVoiceChat/releases/download/v1.3.3/SM-ProximityVoiceChat.dll"
+            ],
+            "names": [
+                "SM-ProximityVoiceChat.dll"
             ]
         },
         "manuallyPopulated": true
@@ -236,6 +269,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll"
+            ],
+            "names": [
+                "SM-BetterPaintTool.dll"
             ]
         },
         "manuallyPopulated": true
@@ -256,6 +292,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll"
+            ],
+            "names": [
+                "DynamicSun.dll"
             ]
         },
         "manuallyPopulated": true
@@ -276,6 +315,9 @@
         "downloaddata": {
             "urls": [
                 "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.4/CustomAudioExtension.dll"
+            ],
+            "names": [
+                "CustomAudioExtension.dll"
             ]
         },
         "manuallyPopulated": true
