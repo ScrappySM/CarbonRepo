@@ -87,12 +87,11 @@ class Manifest():
     
 class DownloadData():
     # TODO: hashes
-    def __init__(self, urls, names):
-        self.urls = urls
-        self.names = names
+    def __init__(self, files):
+        self.files = files
 
     def __repr__(self):
-        return f"DownloadData (urls={self.urls}, names={self.names})"
+        return f"DownloadData (files={self.files})"
     
 class Mod():
     def __init__(self, url=None):
@@ -149,8 +148,7 @@ class Mod():
 
     def _populate_downloaddata(self):
         latest_url = f"https://api.github.com/repos/{self.owner}/{self.repo}/releases/latest"
-        urls = []
-        names = []
+        files = {}
 
         try:
             response = requests.get(latest_url, headers=HEADERS)
@@ -159,11 +157,10 @@ class Mod():
 
             for asset in data.get("assets", []):
                 download_url = asset["browser_download_url"]
-                urls.append(download_url)
-                names.append(asset["name"])
-                break
+                file_name = asset["name"]
+                files[file_name] = download_url
 
-            self.downloaddata = DownloadData(urls, names)
+            self.downloaddata = DownloadData(files)
         except (requests.RequestException, json.JSONDecodeError) as e:
             print(f"Failed to get download data: {e}")
             return None
