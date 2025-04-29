@@ -1,2 +1,9 @@
-requests
+aiohttp
+aiofiles
+beautifulsoup4
 python-dotenv
+PyGithub
+requests
+tqdm
+rich
+textual

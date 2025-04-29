@@ -1,0 +1,122 @@
+[
+    {
+        "Scrap-Mods/Networking-Fix": {
+            "_comment": "Last commit on main: d161f6adb6502d472dd85199b1f19fbd2c68db76 @ 2024-12-14T05:59:34Z",
+            "assets": {
+                "NetworkingFix.dll": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544"
+            }
+        }
+    },
+    {
+        "VeraDev0/SM-NoAutoSmartPhysics": {
+            "_comment": "Last commit on main: 48a0d7ba87a2636ad82385c2e90a2148849a84e4 @ 2025-01-03T15:08:49Z",
+            "assets": {
+                "SM-NoAutoSmartPhysics.dll": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291"
+            }
+        }
+    },
+    {
+        "ScrappySM/DevCheckBypass": {
+            "_comment": "Last commit on main: 039b6c6c7e458a917f61acb9ee9ef7acb86c0347 @ 2025-04-29T15:10:49Z",
+            "assets": {
+                "DevCheckBypass.dll": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a"
+            }
+        }
+    },
+    {
+        "ScrappySM/SM-ForceDevMode": {
+            "_comment": "Last commit on main: 53ee68fca01bc024e3686141cbf96bd225be0beb @ 2025-01-16T03:50:45Z",
+            "assets": {
+                "SM-ForceDevMode.dll": "3c5bfd52f3e59c8395c22f2de7e5a30ea58e30866a3acbdedf0606746ac9a4a8"
+            }
+        }
+    },
+    {
+        "ScrappySM/SM-KeyAPI": {
+            "_comment": "Last commit on main: 82b8c3dbc55e72a9b47bb84442a54af558675ec6 @ 2025-01-22T18:22:22Z",
+            "assets": {
+                "SM-KeyAPI.dll": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39"
+            }
+        }
+    },
+    {
+        "ScrappySM/SM-LuaConsole": {
+            "_comment": "Last commit on main: 473d3e368318cdb5a8ab7b40266c73a5d0344386 @ 2025-01-19T07:18:52Z",
+            "assets": {
+                "SM-LuaConsole.dll": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3"
+            }
+        }
+    },
+    {
+        "ScrappySM/SM-LoadString": {
+            "_comment": "Last commit on main: 1fec16a4bc4d08202843eb19d3096d323d1cfb0e @ 2025-04-11T19:04:42Z",
+            "assets": {
+                "SM-LoadString.dll": "d9bae5509b72648d7d3109b2032e6d77f26faba441aa4c865efe385cdd94368d"
+            }
+        }
+    },
+    {
+        "ReDoIngMods/SM-NoFileExistError": {
+            "_comment": "Last commit on main: 2beb1c201b65ab8bc193f8fc6d1d34e110162191 @ 2025-04-09T12:16:23Z",
+            "assets": {
+                "SM-NoFileExistError.dll": "9c3f2c66b1a2b361dd6b97b95f3994ae5633f06a851db2c4eec8c5c98c943337"
+            }
+        }
+    },
+    {
+        "StoodJarguar657/SMGuiRefresh": {
+            "_comment": "Last commit on main: 66f344528c02aa8da5fefae4926d6f5a08cbae9f @ 2025-02-09T14:56:22Z",
+            "assets": {
+                "SMGuiRefresh.dll": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485"
+            }
+        }
+    },
+    {
+        "QuestionableM/SM-ProximityVoiceChat": {
+            "_comment": "Last commit on main: 1f265f589d25af690e13a088856b182b269db38f @ 2024-12-10T15:45:01Z",
+            "assets": {
+                "SM-ProximityVoiceChat.dll": "e9224154a780ec6da1e4a1ea9cc0be2805519db0727eda8af325d7cd0e42f72c"
+            }
+        }
+    },
+    {
+        "QuestionableM/SM-BetterPaintTool": {
+            "_comment": "Last commit on main: fa79c53d9731f76f773a81f16e5bf019a61880d8 @ 2025-03-22T16:41:31Z",
+            "assets": {
+                "SM-BetterPaintTool.dll": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466"
+            }
+        }
+    },
+    {
+        "QuestionableM/SM-DynamicSun": {
+            "_comment": "Last commit on main: dbd8244f72c3d70cb855140d69e14f8dc08b57e1 @ 2024-12-10T16:07:25Z",
+            "assets": {
+                "DynamicSun.dll": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443"
+            }
+        }
+    },
+    {
+        "QuestionableM/SM-CustomAudioExtension": {
+            "_comment": "Last commit on main: 8c76a1fcab01f325a8a5c518c90ed6e721f8b251 @ 2025-04-02T20:00:34Z",
+            "assets": {
+                "CustomAudioExtension.dll": "00271220987997e54cd3c81e78158e9b4be9241f1a09bcfb1cc99a0e28724e2e"
+            }
+        }
+    },
+    {
+        "ReDoIngMods/Network-Checksum-Disabler": {
+            "_comment": "Last commit on main: e2de32f1d116bc0805093b7feb1596c4c9a4d169 @ 2025-01-04T11:12:44Z",
+            "assets": {
+                "NetworkChecksumDisabler.dll": "0a248bccc47a5bb2905c6b7e171bfd85e8cd8defcafd0c6248ae6ee8e0d1ccb2"
+            }
+        }
+    },
+    {
+        "crackx02/SM-TimeScaleModifier": {
+            "_comment": "Last commit on master: 5cce1ac262cdbc4cc57fe6ee0a10f5e55987b72d @ 2025-04-24T11:28:07Z",
+            "assets": {
+                "TimeScaleModifier.dll": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8"
+            }
+        }
+    }
+]
