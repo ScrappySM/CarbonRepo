@@ -118,5 +118,13 @@
                 "TimeScaleModifier.dll": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8"
             }
         }
+    },
+    {
+        "crackx02/LuaWatchdog": {
+            "_comment": "Last commit on main: 4ef293e44dd458ccfad22de93ed825a1bc7be769 @ 2025-04-30T21:13:56Z",
+            "assets": {
+                "LuaWatchdog.dll": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd"
+            }
+        }
     }
 ]
