@@ -1,8 +1,13 @@
 name: Daily Generate
+
 on:
-    schedule:
-        - cron: '0 0 * * *' # Runs once a day at midnight UTC
-    workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at midnight UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - config.json
+      - generate2.py
 
 permissions:
   contents: write
@@ -35,7 +40,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
           git diff --cached --quiet || git commit -m "chore: daily auto-update"
-      
+
       - name: Push changes
         if: success()
         run: git push
