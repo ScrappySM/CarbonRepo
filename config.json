@@ -25,9 +25,9 @@
     },
     {
         "ScrappySM/SM-ForceDevMode": {
-            "_comment": "Last commit on main: 53ee68fca01bc024e3686141cbf96bd225be0beb @ 2025-01-16T03:50:45Z",
+            "_comment": "Last commit on main: 3e067eeef9e27637befae428f1bba9bf0e66b667 @ 2025-04-29T23:19:23Z",
             "assets": {
-                "SM-ForceDevMode.dll": "3c5bfd52f3e59c8395c22f2de7e5a30ea58e30866a3acbdedf0606746ac9a4a8"
+                "SM-ForceDevMode.dll": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd"
             }
         }
     },
