@@ -1,97 +1,5 @@
 [
     {
-        "name": "Custom Audio Extension",
-        "full_name": "QuestionableM/SM-CustomAudioExtension",
-        "url": "https://github.com/QuestionableM/SM-CustomAudioExtension",
-        "description": "A DLL that adds custom audio support for Scrap Mechanic mods",
-        "downloads": [
-            {
-                "name": "CustomAudioExtension.dll",
-                "url": "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.4/CustomAudioExtension.dll",
-                "currentHash": "00271220987997e54cd3c81e78158e9b4be9241f1a09bcfb1cc99a0e28724e2e",
-                "validHash": "00271220987997e54cd3c81e78158e9b4be9241f1a09bcfb1cc99a0e28724e2e",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 421,
-        "stars": 11,
-        "contributors": [
-            "QuestionableM"
-        ],
-        "icon": "https://opengraph.githubassets.com/375dde834bf55e27d313ddc748784b75276ebd13577deef5685bf36061c9a7d3/QuestionableM/SM-CustomAudioExtension",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Gui Refresh",
-        "full_name": "StoodJarguar657/SMGuiRefresh",
-        "url": "https://github.com/StoodJarguar657/SMGuiRefresh",
-        "description": "This .dll will bind F5 to refresh the InGame GUI",
-        "downloads": [
-            {
-                "name": "SMGuiRefresh.dll",
-                "url": "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll",
-                "currentHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
-                "validHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 102,
-        "stars": 0,
-        "contributors": [
-            "StoodJarguar657",
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/69b44ad365cdb4a965f41774cae68210f5510af5f12a496d8cae377a829d0f32/StoodJarguar657/SMGuiRefresh",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Network Checksum Disabler",
-        "full_name": "ReDoIngMods/Network-Checksum-Disabler",
-        "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler",
-        "description": "Disables the multiplayer game files checksum in Scrap Mechanic",
-        "downloads": [
-            {
-                "name": "NetworkChecksumDisabler.dll",
-                "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler/releases/download/v1.0.0/NetworkChecksumDisabler.dll",
-                "currentHash": "0a248bccc47a5bb2905c6b7e171bfd85e8cd8defcafd0c6248ae6ee8e0d1ccb2",
-                "validHash": "0a248bccc47a5bb2905c6b7e171bfd85e8cd8defcafd0c6248ae6ee8e0d1ccb2",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 107,
-        "stars": 4,
-        "contributors": [
-            "VeraDev0",
-            "crackx02",
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/6e3dfce48ce0d18b8b1115b904ac7f70b7e254bcee55b7f23462256f64e4e03c/ReDoIngMods/Network-Checksum-Disabler",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Time Scale Modifier",
-        "full_name": "crackx02/SM-TimeScaleModifier",
-        "url": "https://github.com/crackx02/SM-TimeScaleModifier",
-        "description": "A simple Time Scale Modifier mod for Scrap Mechanic that adds a slider into the gameplay settings",
-        "downloads": [
-            {
-                "name": "TimeScaleModifier.dll",
-                "url": "https://github.com/crackx02/SM-TimeScaleModifier/releases/download/v1.0.0/TimeScaleModifier.dll",
-                "currentHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
-                "validHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 54,
-        "stars": 2,
-        "contributors": [
-            "crackx02",
-            "QuestionableM"
-        ],
-        "icon": "https://opengraph.githubassets.com/6256c8947767a9106089d97ff9cd27a3077023a076480c639d9d75bdeba9c212/crackx02/SM-TimeScaleModifier",
-        "mismatched_hashes": []
-    },
-    {
         "name": "Dynamic Sun",
         "full_name": "QuestionableM/SM-DynamicSun",
         "url": "https://github.com/QuestionableM/SM-DynamicSun",
@@ -105,34 +13,12 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 204,
+        "total_downloads": 205,
         "stars": 5,
         "contributors": [
             "QuestionableM"
         ],
         "icon": "https://opengraph.githubassets.com/4be7c900c06022f6264526faad15c9606a394cf0d16c62cb8995b93032dfb3db/QuestionableM/SM-DynamicSun",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Better Paint Tool",
-        "full_name": "QuestionableM/SM-BetterPaintTool",
-        "url": "https://github.com/QuestionableM/SM-BetterPaintTool",
-        "description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!",
-        "downloads": [
-            {
-                "name": "SM-BetterPaintTool.dll",
-                "url": "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll",
-                "currentHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
-                "validHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 116,
-        "stars": 15,
-        "contributors": [
-            "QuestionableM"
-        ],
-        "icon": "https://repository-images.githubusercontent.com/752147751/8e0c3176-464e-4262-a7d4-fcd9f8c72436",
         "mismatched_hashes": []
     },
     {
@@ -149,13 +35,127 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 96,
+        "total_downloads": 97,
         "stars": 1,
         "contributors": [
             "BenMcAvoy",
             "VeraDev0"
         ],
         "icon": "https://opengraph.githubassets.com/eff57c00a125d7b3130f18ec982e494d736d0b4d8a9f1dcefafb60dbbb0a5d6e/ReDoIngMods/SM-NoFileExistError",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Better Paint Tool",
+        "full_name": "QuestionableM/SM-BetterPaintTool",
+        "url": "https://github.com/QuestionableM/SM-BetterPaintTool",
+        "description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!",
+        "downloads": [
+            {
+                "name": "SM-BetterPaintTool.dll",
+                "url": "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll",
+                "currentHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
+                "validHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 117,
+        "stars": 15,
+        "contributors": [
+            "QuestionableM"
+        ],
+        "icon": "https://repository-images.githubusercontent.com/752147751/8e0c3176-464e-4262-a7d4-fcd9f8c72436",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Custom Audio Extension",
+        "full_name": "QuestionableM/SM-CustomAudioExtension",
+        "url": "https://github.com/QuestionableM/SM-CustomAudioExtension",
+        "description": "A DLL that adds custom audio support for Scrap Mechanic mods",
+        "downloads": [
+            {
+                "name": "CustomAudioExtension.dll",
+                "url": "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.4/CustomAudioExtension.dll",
+                "currentHash": "00271220987997e54cd3c81e78158e9b4be9241f1a09bcfb1cc99a0e28724e2e",
+                "validHash": "00271220987997e54cd3c81e78158e9b4be9241f1a09bcfb1cc99a0e28724e2e",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 423,
+        "stars": 11,
+        "contributors": [
+            "QuestionableM"
+        ],
+        "icon": "https://opengraph.githubassets.com/375dde834bf55e27d313ddc748784b75276ebd13577deef5685bf36061c9a7d3/QuestionableM/SM-CustomAudioExtension",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Network Checksum Disabler",
+        "full_name": "ReDoIngMods/Network-Checksum-Disabler",
+        "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler",
+        "description": "Disables the multiplayer game files checksum in Scrap Mechanic",
+        "downloads": [
+            {
+                "name": "NetworkChecksumDisabler.dll",
+                "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler/releases/download/v1.0.0/NetworkChecksumDisabler.dll",
+                "currentHash": "0a248bccc47a5bb2905c6b7e171bfd85e8cd8defcafd0c6248ae6ee8e0d1ccb2",
+                "validHash": "0a248bccc47a5bb2905c6b7e171bfd85e8cd8defcafd0c6248ae6ee8e0d1ccb2",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 108,
+        "stars": 4,
+        "contributors": [
+            "VeraDev0",
+            "crackx02",
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/6e3dfce48ce0d18b8b1115b904ac7f70b7e254bcee55b7f23462256f64e4e03c/ReDoIngMods/Network-Checksum-Disabler",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Gui Refresh",
+        "full_name": "StoodJarguar657/SMGuiRefresh",
+        "url": "https://github.com/StoodJarguar657/SMGuiRefresh",
+        "description": "This .dll will bind F5 to refresh the InGame GUI",
+        "downloads": [
+            {
+                "name": "SMGuiRefresh.dll",
+                "url": "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll",
+                "currentHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
+                "validHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 103,
+        "stars": 0,
+        "contributors": [
+            "StoodJarguar657",
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/69b44ad365cdb4a965f41774cae68210f5510af5f12a496d8cae377a829d0f32/StoodJarguar657/SMGuiRefresh",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Time Scale Modifier",
+        "full_name": "crackx02/SM-TimeScaleModifier",
+        "url": "https://github.com/crackx02/SM-TimeScaleModifier",
+        "description": "A simple Time Scale Modifier mod for Scrap Mechanic that adds a slider into the gameplay settings",
+        "downloads": [
+            {
+                "name": "TimeScaleModifier.dll",
+                "url": "https://github.com/crackx02/SM-TimeScaleModifier/releases/download/v1.0.0/TimeScaleModifier.dll",
+                "currentHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
+                "validHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 55,
+        "stars": 3,
+        "contributors": [
+            "crackx02",
+            "QuestionableM"
+        ],
+        "icon": "https://opengraph.githubassets.com/7ea8c82e0ca5556c6752e161faf9cbbd86ce65f4bf30a1cfa22678ea33eebc35/crackx02/SM-TimeScaleModifier",
         "mismatched_hashes": []
     },
     {
@@ -172,79 +172,12 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 184,
+        "total_downloads": 185,
         "stars": 14,
         "contributors": [
             "QuestionableM"
         ],
         "icon": "https://opengraph.githubassets.com/89885906fabec664f891453107975e618655db4fde68eafef34e764273a8ecf7/QuestionableM/SM-ProximityVoiceChat",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Lua Watchdog",
-        "full_name": "crackx02/LuaWatchdog",
-        "url": "https://github.com/crackx02/LuaWatchdog",
-        "description": "Scrap Mechanic Lua Watchdog",
-        "downloads": [
-            {
-                "name": "LuaWatchdog.dll",
-                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
-                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
-                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 20,
-        "stars": 0,
-        "contributors": [
-            "crackx02"
-        ],
-        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "No Auto Smart Physics",
-        "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
-        "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
-        "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!",
-        "downloads": [
-            {
-                "name": "SM-NoAutoSmartPhysics.dll",
-                "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll",
-                "currentHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
-                "validHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 140,
-        "stars": 1,
-        "contributors": [
-            "VeraDev0"
-        ],
-        "icon": "https://opengraph.githubassets.com/b369a82e1a22916a0b998b5baa1c04be70a20937b70f9ed813a853935e98efde/VeraDev0/SM-NoAutoSmartPhysics",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Networking Fix",
-        "full_name": "Scrap-Mods/networking-fix",
-        "url": "https://github.com/Scrap-Mods/networking-fix",
-        "description": "Stops Scrap Mechanic client from stalling packets",
-        "downloads": [
-            {
-                "name": "NetworkingFix.dll",
-                "url": "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll",
-                "currentHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
-                "validHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 412,
-        "stars": 11,
-        "contributors": [
-            "ColdMeekly",
-            "QuestionableM"
-        ],
-        "icon": "https://opengraph.githubassets.com/07073120fad1969ea546473cdcf4c1dabedc5f046db91d84744f9beac3f6acad/Scrap-Mods/networking-fix",
         "mismatched_hashes": []
     },
     {
@@ -261,7 +194,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 97,
+        "total_downloads": 98,
         "stars": 1,
         "contributors": [
             "BenMcAvoy"
@@ -270,47 +203,48 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Dev Check Bypass",
-        "full_name": "ScrappySM/DevCheckBypass",
-        "url": "https://github.com/ScrappySM/DevCheckBypass",
-        "description": "Bypasses the Scrap Mechanic developer flag check between client and server",
+        "name": "Lua Watchdog",
+        "full_name": "crackx02/LuaWatchdog",
+        "url": "https://github.com/crackx02/LuaWatchdog",
+        "description": "Scrap Mechanic Lua Watchdog",
         "downloads": [
             {
-                "name": "DevCheckBypass.dll",
-                "url": "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.1/DevCheckBypass.dll",
-                "currentHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
-                "validHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
+                "name": "LuaWatchdog.dll",
+                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
+                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 50,
-        "stars": 1,
+        "total_downloads": 21,
+        "stars": 0,
         "contributors": [
-            "BenMcAvoy"
+            "crackx02"
         ],
-        "icon": "https://opengraph.githubassets.com/e84dfdfc76d373748508b5a05eca72b70e2e3a709c909acbfd37bfa66e928fc4/ScrappySM/DevCheckBypass",
+        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
         "mismatched_hashes": []
     },
     {
-        "name": "Force Dev Mode",
-        "full_name": "ScrappySM/SM-ForceDevMode",
-        "url": "https://github.com/ScrappySM/SM-ForceDevMode",
-        "description": "Force enables dev mode whilst the game is running",
+        "name": "Networking Fix",
+        "full_name": "Scrap-Mods/networking-fix",
+        "url": "https://github.com/Scrap-Mods/networking-fix",
+        "description": "Stops Scrap Mechanic client from stalling packets",
         "downloads": [
             {
-                "name": "SM-ForceDevMode.dll",
-                "url": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.1/SM-ForceDevMode.dll",
-                "currentHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
-                "validHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
+                "name": "NetworkingFix.dll",
+                "url": "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll",
+                "currentHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
+                "validHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 32,
-        "stars": 0,
+        "total_downloads": 413,
+        "stars": 11,
         "contributors": [
-            "BenMcAvoy"
+            "ColdMeekly",
+            "QuestionableM"
         ],
-        "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
+        "icon": "https://opengraph.githubassets.com/07073120fad1969ea546473cdcf4c1dabedc5f046db91d84744f9beac3f6acad/Scrap-Mods/networking-fix",
         "mismatched_hashes": []
     },
     {
@@ -327,7 +261,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 110,
+        "total_downloads": 111,
         "stars": 0,
         "contributors": [
             "BenMcAvoy"
@@ -349,12 +283,78 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 104,
+        "total_downloads": 105,
         "stars": 0,
         "contributors": [
             "BenMcAvoy"
         ],
         "icon": "https://opengraph.githubassets.com/f101c26e071c90bb78fce05b090168a998f94495eb3953e705a875b6e1d513d8/ScrappySM/SM-KeyAPI",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Dev Check Bypass",
+        "full_name": "ScrappySM/DevCheckBypass",
+        "url": "https://github.com/ScrappySM/DevCheckBypass",
+        "description": "Bypasses the Scrap Mechanic developer flag check between client and server",
+        "downloads": [
+            {
+                "name": "DevCheckBypass.dll",
+                "url": "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.1/DevCheckBypass.dll",
+                "currentHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
+                "validHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 51,
+        "stars": 1,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/e84dfdfc76d373748508b5a05eca72b70e2e3a709c909acbfd37bfa66e928fc4/ScrappySM/DevCheckBypass",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Force Dev Mode",
+        "full_name": "ScrappySM/SM-ForceDevMode",
+        "url": "https://github.com/ScrappySM/SM-ForceDevMode",
+        "description": "Force enables dev mode whilst the game is running",
+        "downloads": [
+            {
+                "name": "SM-ForceDevMode.dll",
+                "url": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.1/SM-ForceDevMode.dll",
+                "currentHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
+                "validHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 33,
+        "stars": 0,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "No Auto Smart Physics",
+        "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
+        "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
+        "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!",
+        "downloads": [
+            {
+                "name": "SM-NoAutoSmartPhysics.dll",
+                "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll",
+                "currentHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
+                "validHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 141,
+        "stars": 1,
+        "contributors": [
+            "VeraDev0"
+        ],
+        "icon": "https://opengraph.githubassets.com/b369a82e1a22916a0b998b5baa1c04be70a20937b70f9ed813a853935e98efde/VeraDev0/SM-NoAutoSmartPhysics",
         "mismatched_hashes": []
     }
 ]
