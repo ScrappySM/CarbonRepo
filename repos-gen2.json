@@ -1,5 +1,27 @@
 [
     {
+        "name": "Key API",
+        "full_name": "ScrappySM/SM-KeyAPI",
+        "url": "https://github.com/ScrappySM/SM-KeyAPI",
+        "description": "Allows you to check if any key is down from the SM Lua API (extends the API)",
+        "downloads": [
+            {
+                "name": "SM-KeyAPI.dll",
+                "url": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll",
+                "currentHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
+                "validHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 176,
+        "stars": 1,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/6ef0ffa34bd4c6593713f543b3e742dac8575c94c8cc7a714ebdee56ae451599/ScrappySM/SM-KeyAPI",
+        "mismatched_hashes": []
+    },
+    {
         "name": "No Auto Smart Physics",
         "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
         "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
@@ -13,7 +35,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 209,
+        "total_downloads": 210,
         "stars": 1,
         "contributors": [
             "VeraDev0"
@@ -35,102 +57,13 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 165,
+        "total_downloads": 166,
         "stars": 2,
         "contributors": [
             "BenMcAvoy",
             "VeraDev0"
         ],
         "icon": "https://opengraph.githubassets.com/950edc37b8dcd313bfa493b339fa638ad559b26c2a70eed9e218ededca11b3b8/ReDoIngMods/SM-NoFileExistError",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Key API",
-        "full_name": "ScrappySM/SM-KeyAPI",
-        "url": "https://github.com/ScrappySM/SM-KeyAPI",
-        "description": "Allows you to check if any key is down from the SM Lua API (extends the API)",
-        "downloads": [
-            {
-                "name": "SM-KeyAPI.dll",
-                "url": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll",
-                "currentHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
-                "validHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 175,
-        "stars": 1,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/6ef0ffa34bd4c6593713f543b3e742dac8575c94c8cc7a714ebdee56ae451599/ScrappySM/SM-KeyAPI",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Load String",
-        "full_name": "ScrappySM/SM-LoadString",
-        "url": "https://github.com/ScrappySM/SM-LoadString",
-        "description": "Adds `loadstring` to the Scrap Mechanic Lua environment",
-        "downloads": [
-            {
-                "name": "SM-LoadString.dll",
-                "url": "https://github.com/ScrappySM/SM-LoadString/releases/download/v1.0.2/SM-LoadString.dll",
-                "currentHash": "d9bae5509b72648d7d3109b2032e6d77f26faba441aa4c865efe385cdd94368d",
-                "validHash": "d9bae5509b72648d7d3109b2032e6d77f26faba441aa4c865efe385cdd94368d",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 164,
-        "stars": 1,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/af463b57efb0b7020652262fcbd5e27c0efeb3ddde97d416a6a2f5c27901b3ee/ScrappySM/SM-LoadString",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Force Dev Mode",
-        "full_name": "ScrappySM/SM-ForceDevMode",
-        "url": "https://github.com/ScrappySM/SM-ForceDevMode",
-        "description": "Force enables dev mode whilst the game is running",
-        "downloads": [
-            {
-                "name": "SM-ForceDevMode.dll",
-                "url": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.1/SM-ForceDevMode.dll",
-                "currentHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
-                "validHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 103,
-        "stars": 0,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Gui Refresh",
-        "full_name": "StoodJarguar657/SMGuiRefresh",
-        "url": "https://github.com/StoodJarguar657/SMGuiRefresh",
-        "description": "This .dll will bind F5 to refresh the InGame GUI",
-        "downloads": [
-            {
-                "name": "SMGuiRefresh.dll",
-                "url": "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll",
-                "currentHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
-                "validHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 172,
-        "stars": 0,
-        "contributors": [
-            "StoodJarguar657",
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/69b44ad365cdb4a965f41774cae68210f5510af5f12a496d8cae377a829d0f32/StoodJarguar657/SMGuiRefresh",
         "mismatched_hashes": []
     },
     {
@@ -147,12 +80,35 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 125,
+        "total_downloads": 126,
         "stars": 1,
         "contributors": [
             "BenMcAvoy"
         ],
         "icon": "https://opengraph.githubassets.com/e84dfdfc76d373748508b5a05eca72b70e2e3a709c909acbfd37bfa66e928fc4/ScrappySM/DevCheckBypass",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Gui Refresh",
+        "full_name": "StoodJarguar657/SMGuiRefresh",
+        "url": "https://github.com/StoodJarguar657/SMGuiRefresh",
+        "description": "This .dll will bind F5 to refresh the InGame GUI",
+        "downloads": [
+            {
+                "name": "SMGuiRefresh.dll",
+                "url": "https://github.com/StoodJarguar657/SMGuiRefresh/releases/download/v0.2/SMGuiRefresh.dll",
+                "currentHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
+                "validHash": "d60dd71070994b505c899a8079ab9c4a948b05ae53c49347ea088d4c0c76c485",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 173,
+        "stars": 0,
+        "contributors": [
+            "StoodJarguar657",
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/69b44ad365cdb4a965f41774cae68210f5510af5f12a496d8cae377a829d0f32/StoodJarguar657/SMGuiRefresh",
         "mismatched_hashes": []
     },
     {
@@ -169,7 +125,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 178,
+        "total_downloads": 179,
         "stars": 0,
         "contributors": [
             "BenMcAvoy"
@@ -178,25 +134,69 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Dynamic Sun",
-        "full_name": "QuestionableM/SM-DynamicSun",
-        "url": "https://github.com/QuestionableM/SM-DynamicSun",
-        "description": "A Scrap Mechanic DLL mod which makes the sun dynamic!",
+        "name": "Force Dev Mode",
+        "full_name": "ScrappySM/SM-ForceDevMode",
+        "url": "https://github.com/ScrappySM/SM-ForceDevMode",
+        "description": "Force enables dev mode whilst the game is running",
         "downloads": [
             {
-                "name": "DynamicSun.dll",
-                "url": "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll",
-                "currentHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
-                "validHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
+                "name": "SM-ForceDevMode.dll",
+                "url": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.1/SM-ForceDevMode.dll",
+                "currentHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
+                "validHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 283,
-        "stars": 5,
+        "total_downloads": 104,
+        "stars": 0,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Load String",
+        "full_name": "ScrappySM/SM-LoadString",
+        "url": "https://github.com/ScrappySM/SM-LoadString",
+        "description": "Adds `loadstring` to the Scrap Mechanic Lua environment",
+        "downloads": [
+            {
+                "name": "SM-LoadString.dll",
+                "url": "https://github.com/ScrappySM/SM-LoadString/releases/download/v1.0.2/SM-LoadString.dll",
+                "currentHash": "d9bae5509b72648d7d3109b2032e6d77f26faba441aa4c865efe385cdd94368d",
+                "validHash": "d9bae5509b72648d7d3109b2032e6d77f26faba441aa4c865efe385cdd94368d",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 165,
+        "stars": 1,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/af463b57efb0b7020652262fcbd5e27c0efeb3ddde97d416a6a2f5c27901b3ee/ScrappySM/SM-LoadString",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Better Paint Tool",
+        "full_name": "QuestionableM/SM-BetterPaintTool",
+        "url": "https://github.com/QuestionableM/SM-BetterPaintTool",
+        "description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!",
+        "downloads": [
+            {
+                "name": "SM-BetterPaintTool.dll",
+                "url": "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll",
+                "currentHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
+                "validHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 233,
+        "stars": 16,
         "contributors": [
             "QuestionableM"
         ],
-        "icon": "https://opengraph.githubassets.com/4be7c900c06022f6264526faad15c9606a394cf0d16c62cb8995b93032dfb3db/QuestionableM/SM-DynamicSun",
+        "icon": "https://repository-images.githubusercontent.com/752147751/8e0c3176-464e-4262-a7d4-fcd9f8c72436",
         "mismatched_hashes": []
     },
     {
@@ -213,7 +213,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 528,
+        "total_downloads": 529,
         "stars": 11,
         "contributors": [
             "ColdMeekly",
@@ -223,25 +223,25 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Lua Watchdog",
-        "full_name": "crackx02/LuaWatchdog",
-        "url": "https://github.com/crackx02/LuaWatchdog",
-        "description": "Scrap Mechanic Lua Watchdog",
+        "name": "Dynamic Sun",
+        "full_name": "QuestionableM/SM-DynamicSun",
+        "url": "https://github.com/QuestionableM/SM-DynamicSun",
+        "description": "A Scrap Mechanic DLL mod which makes the sun dynamic!",
         "downloads": [
             {
-                "name": "LuaWatchdog.dll",
-                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
-                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
-                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "name": "DynamicSun.dll",
+                "url": "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll",
+                "currentHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
+                "validHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 87,
-        "stars": 0,
+        "total_downloads": 284,
+        "stars": 5,
         "contributors": [
-            "crackx02"
+            "QuestionableM"
         ],
-        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
+        "icon": "https://opengraph.githubassets.com/4be7c900c06022f6264526faad15c9606a394cf0d16c62cb8995b93032dfb3db/QuestionableM/SM-DynamicSun",
         "mismatched_hashes": []
     },
     {
@@ -258,7 +258,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 260,
+        "total_downloads": 261,
         "stars": 14,
         "contributors": [
             "QuestionableM"
@@ -280,7 +280,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 191,
+        "total_downloads": 192,
         "stars": 11,
         "contributors": [
             "QuestionableM"
@@ -289,25 +289,25 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Better Paint Tool",
-        "full_name": "QuestionableM/SM-BetterPaintTool",
-        "url": "https://github.com/QuestionableM/SM-BetterPaintTool",
-        "description": "A DLL mod for Scrap Mechanic which enhances the functionality of the vanilla Paint Tool and allows you to pick any color you want!",
+        "name": "Lua Watchdog",
+        "full_name": "crackx02/LuaWatchdog",
+        "url": "https://github.com/crackx02/LuaWatchdog",
+        "description": "Scrap Mechanic Lua Watchdog",
         "downloads": [
             {
-                "name": "SM-BetterPaintTool.dll",
-                "url": "https://github.com/QuestionableM/SM-BetterPaintTool/releases/download/v1.7.1/SM-BetterPaintTool.dll",
-                "currentHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
-                "validHash": "a0d3b2a9e6f3694ee134d503c5e386b5a06718552199e1e4b6b862c4c534b466",
+                "name": "LuaWatchdog.dll",
+                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
+                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 232,
-        "stars": 16,
+        "total_downloads": 88,
+        "stars": 0,
         "contributors": [
-            "QuestionableM"
+            "crackx02"
         ],
-        "icon": "https://repository-images.githubusercontent.com/752147751/8e0c3176-464e-4262-a7d4-fcd9f8c72436",
+        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
         "mismatched_hashes": []
     },
     {
@@ -324,7 +324,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 122,
+        "total_downloads": 123,
         "stars": 3,
         "contributors": [
             "crackx02",
@@ -347,7 +347,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 58,
+        "total_downloads": 59,
         "stars": 4,
         "contributors": [
             "VeraDev0",
