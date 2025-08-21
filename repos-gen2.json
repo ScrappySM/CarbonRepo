@@ -1,115 +1,5 @@
 [
     {
-        "name": "Lua Watchdog",
-        "full_name": "crackx02/LuaWatchdog",
-        "url": "https://github.com/crackx02/LuaWatchdog",
-        "description": "Scrap Mechanic Lua Watchdog",
-        "downloads": [
-            {
-                "name": "LuaWatchdog.dll",
-                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
-                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
-                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 124,
-        "stars": 0,
-        "contributors": [
-            "crackx02"
-        ],
-        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "No Auto Smart Physics",
-        "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
-        "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
-        "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!",
-        "downloads": [
-            {
-                "name": "SM-NoAutoSmartPhysics.dll",
-                "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll",
-                "currentHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
-                "validHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 245,
-        "stars": 1,
-        "contributors": [
-            "VeraDev0"
-        ],
-        "icon": "https://opengraph.githubassets.com/b369a82e1a22916a0b998b5baa1c04be70a20937b70f9ed813a853935e98efde/VeraDev0/SM-NoAutoSmartPhysics",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Key API",
-        "full_name": "ScrappySM/SM-KeyAPI",
-        "url": "https://github.com/ScrappySM/SM-KeyAPI",
-        "description": "Allows you to check if any key is down from the SM Lua API (extends the API)",
-        "downloads": [
-            {
-                "name": "SM-KeyAPI.dll",
-                "url": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll",
-                "currentHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
-                "validHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 211,
-        "stars": 1,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/6ef0ffa34bd4c6593713f543b3e742dac8575c94c8cc7a714ebdee56ae451599/ScrappySM/SM-KeyAPI",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Lua Console",
-        "full_name": "ScrappySM/SM-LuaConsole",
-        "url": "https://github.com/ScrappySM/SM-LuaConsole",
-        "description": "A Lua Console for Scrap Mechanic, allows you to execute Lua once, on Lua env initialization and every tick.",
-        "downloads": [
-            {
-                "name": "SM-LuaConsole.dll",
-                "url": "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll",
-                "currentHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
-                "validHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 224,
-        "stars": 0,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/d917bd3d6f6e2595bebcfe00bffb6aa4da52f50be329451bc79f26fd3cbc93fe/ScrappySM/SM-LuaConsole",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Force Dev Mode",
-        "full_name": "ScrappySM/SM-ForceDevMode",
-        "url": "https://github.com/ScrappySM/SM-ForceDevMode",
-        "description": "Force enables dev mode whilst the game is running",
-        "downloads": [
-            {
-                "name": "SM-ForceDevMode.dll",
-                "url": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.1/SM-ForceDevMode.dll",
-                "currentHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
-                "validHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 141,
-        "stars": 0,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
-        "mismatched_hashes": []
-    },
-    {
         "name": "Networking Fix",
         "full_name": "Scrap-Mods/networking-fix",
         "url": "https://github.com/Scrap-Mods/networking-fix",
@@ -123,36 +13,13 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 603,
+        "total_downloads": 605,
         "stars": 11,
         "contributors": [
             "ColdMeekly",
             "QuestionableM"
         ],
         "icon": "https://opengraph.githubassets.com/07073120fad1969ea546473cdcf4c1dabedc5f046db91d84744f9beac3f6acad/Scrap-Mods/networking-fix",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Time Scale Modifier",
-        "full_name": "crackx02/SM-TimeScaleModifier",
-        "url": "https://github.com/crackx02/SM-TimeScaleModifier",
-        "description": "A simple Time Scale Modifier mod for Scrap Mechanic that adds a slider into the gameplay settings",
-        "downloads": [
-            {
-                "name": "TimeScaleModifier.dll",
-                "url": "https://github.com/crackx02/SM-TimeScaleModifier/releases/download/v1.0.0/TimeScaleModifier.dll",
-                "currentHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
-                "validHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 159,
-        "stars": 3,
-        "contributors": [
-            "crackx02",
-            "QuestionableM"
-        ],
-        "icon": "https://opengraph.githubassets.com/7ea8c82e0ca5556c6752e161faf9cbbd86ce65f4bf30a1cfa22678ea33eebc35/crackx02/SM-TimeScaleModifier",
         "mismatched_hashes": []
     },
     {
@@ -169,7 +36,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 171,
+        "total_downloads": 172,
         "stars": 2,
         "contributors": [
             "BenMcAvoy"
@@ -178,25 +45,136 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Custom Audio Extension",
-        "full_name": "QuestionableM/SM-CustomAudioExtension",
-        "url": "https://github.com/QuestionableM/SM-CustomAudioExtension",
-        "description": "A DLL that adds custom audio support for Scrap Mechanic mods",
+        "name": "No Auto Smart Physics",
+        "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
+        "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
+        "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!",
         "downloads": [
             {
-                "name": "CustomAudioExtension.dll",
-                "url": "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.5/CustomAudioExtension.dll",
-                "currentHash": "738349cf8335453294bc119b364ca451425bc14ef0b07ce5fc545f6ebca4a1db",
-                "validHash": "738349cf8335453294bc119b364ca451425bc14ef0b07ce5fc545f6ebca4a1db",
+                "name": "SM-NoAutoSmartPhysics.dll",
+                "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll",
+                "currentHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
+                "validHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 268,
-        "stars": 11,
+        "total_downloads": 246,
+        "stars": 1,
         "contributors": [
+            "VeraDev0"
+        ],
+        "icon": "https://opengraph.githubassets.com/b369a82e1a22916a0b998b5baa1c04be70a20937b70f9ed813a853935e98efde/VeraDev0/SM-NoAutoSmartPhysics",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Time Scale Modifier",
+        "full_name": "crackx02/SM-TimeScaleModifier",
+        "url": "https://github.com/crackx02/SM-TimeScaleModifier",
+        "description": "A simple Time Scale Modifier mod for Scrap Mechanic that adds a slider into the gameplay settings",
+        "downloads": [
+            {
+                "name": "TimeScaleModifier.dll",
+                "url": "https://github.com/crackx02/SM-TimeScaleModifier/releases/download/v1.0.0/TimeScaleModifier.dll",
+                "currentHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
+                "validHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 160,
+        "stars": 3,
+        "contributors": [
+            "crackx02",
             "QuestionableM"
         ],
-        "icon": "https://opengraph.githubassets.com/71baef23ecd744883edb845b70a97297e63e0202aa812525675c9b5ec9c1ad16/QuestionableM/SM-CustomAudioExtension",
+        "icon": "https://opengraph.githubassets.com/7ea8c82e0ca5556c6752e161faf9cbbd86ce65f4bf30a1cfa22678ea33eebc35/crackx02/SM-TimeScaleModifier",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Lua Watchdog",
+        "full_name": "crackx02/LuaWatchdog",
+        "url": "https://github.com/crackx02/LuaWatchdog",
+        "description": "Scrap Mechanic Lua Watchdog",
+        "downloads": [
+            {
+                "name": "LuaWatchdog.dll",
+                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
+                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 125,
+        "stars": 0,
+        "contributors": [
+            "crackx02"
+        ],
+        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Force Dev Mode",
+        "full_name": "ScrappySM/SM-ForceDevMode",
+        "url": "https://github.com/ScrappySM/SM-ForceDevMode",
+        "description": "Force enables dev mode whilst the game is running",
+        "downloads": [
+            {
+                "name": "SM-ForceDevMode.dll",
+                "url": "https://github.com/ScrappySM/SM-ForceDevMode/releases/download/v1.0.1/SM-ForceDevMode.dll",
+                "currentHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
+                "validHash": "254db279918b332e4871b66c7eb25de12bd50592c257303f7834fdef01b1c9bd",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 142,
+        "stars": 0,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Lua Console",
+        "full_name": "ScrappySM/SM-LuaConsole",
+        "url": "https://github.com/ScrappySM/SM-LuaConsole",
+        "description": "A Lua Console for Scrap Mechanic, allows you to execute Lua once, on Lua env initialization and every tick.",
+        "downloads": [
+            {
+                "name": "SM-LuaConsole.dll",
+                "url": "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll",
+                "currentHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
+                "validHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 225,
+        "stars": 0,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/d917bd3d6f6e2595bebcfe00bffb6aa4da52f50be329451bc79f26fd3cbc93fe/ScrappySM/SM-LuaConsole",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Key API",
+        "full_name": "ScrappySM/SM-KeyAPI",
+        "url": "https://github.com/ScrappySM/SM-KeyAPI",
+        "description": "Allows you to check if any key is down from the SM Lua API (extends the API)",
+        "downloads": [
+            {
+                "name": "SM-KeyAPI.dll",
+                "url": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll",
+                "currentHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
+                "validHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 212,
+        "stars": 1,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/6ef0ffa34bd4c6593713f543b3e742dac8575c94c8cc7a714ebdee56ae451599/ScrappySM/SM-KeyAPI",
         "mismatched_hashes": []
     },
     {
@@ -213,7 +191,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 99,
+        "total_downloads": 100,
         "stars": 5,
         "contributors": [
             "VeraDev0",
@@ -224,25 +202,25 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Dynamic Sun",
-        "full_name": "QuestionableM/SM-DynamicSun",
-        "url": "https://github.com/QuestionableM/SM-DynamicSun",
-        "description": "A Scrap Mechanic DLL mod which makes the sun dynamic!",
+        "name": "Custom Audio Extension",
+        "full_name": "QuestionableM/SM-CustomAudioExtension",
+        "url": "https://github.com/QuestionableM/SM-CustomAudioExtension",
+        "description": "A DLL that adds custom audio support for Scrap Mechanic mods",
         "downloads": [
             {
-                "name": "DynamicSun.dll",
-                "url": "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll",
-                "currentHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
-                "validHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
+                "name": "CustomAudioExtension.dll",
+                "url": "https://github.com/QuestionableM/SM-CustomAudioExtension/releases/download/v1.7.5/CustomAudioExtension.dll",
+                "currentHash": "738349cf8335453294bc119b364ca451425bc14ef0b07ce5fc545f6ebca4a1db",
+                "validHash": "738349cf8335453294bc119b364ca451425bc14ef0b07ce5fc545f6ebca4a1db",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 323,
-        "stars": 5,
+        "total_downloads": 269,
+        "stars": 11,
         "contributors": [
             "QuestionableM"
         ],
-        "icon": "https://opengraph.githubassets.com/4be7c900c06022f6264526faad15c9606a394cf0d16c62cb8995b93032dfb3db/QuestionableM/SM-DynamicSun",
+        "icon": "https://opengraph.githubassets.com/71baef23ecd744883edb845b70a97297e63e0202aa812525675c9b5ec9c1ad16/QuestionableM/SM-CustomAudioExtension",
         "mismatched_hashes": []
     },
     {
@@ -259,7 +237,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 301,
+        "total_downloads": 302,
         "stars": 14,
         "contributors": [
             "QuestionableM"
@@ -281,7 +259,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 287,
+        "total_downloads": 288,
         "stars": 16,
         "contributors": [
             "QuestionableM"
@@ -303,13 +281,35 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 202,
+        "total_downloads": 203,
         "stars": 2,
         "contributors": [
             "BenMcAvoy",
             "VeraDev0"
         ],
         "icon": "https://opengraph.githubassets.com/950edc37b8dcd313bfa493b339fa638ad559b26c2a70eed9e218ededca11b3b8/ReDoIngMods/SM-NoFileExistError",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Dynamic Sun",
+        "full_name": "QuestionableM/SM-DynamicSun",
+        "url": "https://github.com/QuestionableM/SM-DynamicSun",
+        "description": "A Scrap Mechanic DLL mod which makes the sun dynamic!",
+        "downloads": [
+            {
+                "name": "DynamicSun.dll",
+                "url": "https://github.com/QuestionableM/SM-DynamicSun/releases/download/v1.1.4/DynamicSun.dll",
+                "currentHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
+                "validHash": "4a30ff3affc1f54c65999e895f45fd0bd16460c6eb64a687b51c4e2d361c7443",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 324,
+        "stars": 5,
+        "contributors": [
+            "QuestionableM"
+        ],
+        "icon": "https://opengraph.githubassets.com/4be7c900c06022f6264526faad15c9606a394cf0d16c62cb8995b93032dfb3db/QuestionableM/SM-DynamicSun",
         "mismatched_hashes": []
     },
     {
@@ -326,7 +326,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 209,
+        "total_downloads": 210,
         "stars": 0,
         "contributors": [
             "StoodJarguar657",
@@ -349,7 +349,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 201,
+        "total_downloads": 202,
         "stars": 1,
         "contributors": [
             "BenMcAvoy"
