@@ -1,94 +1,24 @@
 [
     {
-        "name": "No Auto Smart Physics",
-        "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
-        "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
-        "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!",
+        "name": "Lua Watchdog",
+        "full_name": "crackx02/LuaWatchdog",
+        "url": "https://github.com/crackx02/LuaWatchdog",
+        "description": "Scrap Mechanic Lua Watchdog",
         "downloads": [
             {
-                "name": "SM-NoAutoSmartPhysics.dll",
-                "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll",
-                "currentHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
-                "validHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
+                "name": "LuaWatchdog.dll",
+                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
+                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 309,
-        "stars": 1,
+        "total_downloads": 189,
+        "stars": 0,
         "contributors": [
-            "VeraDev0"
+            "crackx02"
         ],
-        "icon": "https://opengraph.githubassets.com/b369a82e1a22916a0b998b5baa1c04be70a20937b70f9ed813a853935e98efde/VeraDev0/SM-NoAutoSmartPhysics",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Networking Fix",
-        "full_name": "Scrap-Mods/networking-fix",
-        "url": "https://github.com/Scrap-Mods/networking-fix",
-        "description": "Stops Scrap Mechanic client from stalling packets",
-        "downloads": [
-            {
-                "name": "NetworkingFix.dll",
-                "url": "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll",
-                "currentHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
-                "validHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 720,
-        "stars": 12,
-        "contributors": [
-            "ColdMeekly",
-            "QuestionableM"
-        ],
-        "icon": "https://opengraph.githubassets.com/2efab48e09c27c48ce6559bd74d7b9246814b7fb5a4f205ae70ef21d12340f81/Scrap-Mods/networking-fix",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Time Scale Modifier",
-        "full_name": "crackx02/SM-TimeScaleModifier",
-        "url": "https://github.com/crackx02/SM-TimeScaleModifier",
-        "description": "A simple Time Scale Modifier mod for Scrap Mechanic that adds a slider into the gameplay settings",
-        "downloads": [
-            {
-                "name": "TimeScaleModifier.dll",
-                "url": "https://github.com/crackx02/SM-TimeScaleModifier/releases/download/v1.0.0/TimeScaleModifier.dll",
-                "currentHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
-                "validHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 222,
-        "stars": 3,
-        "contributors": [
-            "crackx02",
-            "QuestionableM"
-        ],
-        "icon": "https://opengraph.githubassets.com/7ea8c82e0ca5556c6752e161faf9cbbd86ce65f4bf30a1cfa22678ea33eebc35/crackx02/SM-TimeScaleModifier",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Network Checksum Disabler",
-        "full_name": "ReDoIngMods/Network-Checksum-Disabler",
-        "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler",
-        "description": "Disables the multiplayer game files checksum in Scrap Mechanic",
-        "downloads": [
-            {
-                "name": "NetworkChecksumDisabler.dll",
-                "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler/releases/download/v1.1.0/NetworkChecksumDisabler.dll",
-                "currentHash": "ac4c1bbda55dc31db6219e30daf372de21874a96623b5727f248d8675c8b2a2b",
-                "validHash": "ac4c1bbda55dc31db6219e30daf372de21874a96623b5727f248d8675c8b2a2b",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 167,
-        "stars": 5,
-        "contributors": [
-            "VeraDev0",
-            "crackx02",
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/e956cacdeff665e38e23ec812fd056ac0414a45913b6f88753dd9bdfe6727b4b/ReDoIngMods/Network-Checksum-Disabler",
+        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
         "mismatched_hashes": []
     },
     {
@@ -105,7 +35,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 424,
+        "total_downloads": 429,
         "stars": 11,
         "contributors": [
             "QuestionableM"
@@ -114,47 +44,49 @@
         "mismatched_hashes": []
     },
     {
-        "name": "Dev Check Bypass",
-        "full_name": "ScrappySM/DevCheckBypass",
-        "url": "https://github.com/ScrappySM/DevCheckBypass",
-        "description": "Bypasses the Scrap Mechanic developer flag check between client and server",
+        "name": "No Auto Smart Physics",
+        "full_name": "VeraDev0/SM-NoAutoSmartPhysics",
+        "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics",
+        "description": "Prevent Scrap Mechanic from automaticly switching your physics quality to Smart Physics if the physics engine experiences too much lag!",
         "downloads": [
             {
-                "name": "DevCheckBypass.dll",
-                "url": "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.1/DevCheckBypass.dll",
-                "currentHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
-                "validHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
+                "name": "SM-NoAutoSmartPhysics.dll",
+                "url": "https://github.com/VeraDev0/SM-NoAutoSmartPhysics/releases/download/v1.2/SM-NoAutoSmartPhysics.dll",
+                "currentHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
+                "validHash": "6b36483fe2ca8629b78ad2aa213266131033949e3615134ec5c31b1e0ec66291",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 243,
-        "stars": 2,
+        "total_downloads": 310,
+        "stars": 1,
         "contributors": [
-            "BenMcAvoy"
+            "VeraDev0"
         ],
-        "icon": "https://opengraph.githubassets.com/9a3f725cab101534f51eb7cff9d0d36797d932b3c17c7f1e77950b26fdaeade9/ScrappySM/DevCheckBypass",
+        "icon": "https://opengraph.githubassets.com/b369a82e1a22916a0b998b5baa1c04be70a20937b70f9ed813a853935e98efde/VeraDev0/SM-NoAutoSmartPhysics",
         "mismatched_hashes": []
     },
     {
-        "name": "Lua Watchdog",
-        "full_name": "crackx02/LuaWatchdog",
-        "url": "https://github.com/crackx02/LuaWatchdog",
-        "description": "Scrap Mechanic Lua Watchdog",
+        "name": "Network Checksum Disabler",
+        "full_name": "ReDoIngMods/Network-Checksum-Disabler",
+        "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler",
+        "description": "Disables the multiplayer game files checksum in Scrap Mechanic",
         "downloads": [
             {
-                "name": "LuaWatchdog.dll",
-                "url": "https://github.com/crackx02/LuaWatchdog/releases/download/1.0/LuaWatchdog.dll",
-                "currentHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
-                "validHash": "91612c9ff5063f2c947b7c45f5c079bdf8667b51c37360e6c65635389bfd1bbd",
+                "name": "NetworkChecksumDisabler.dll",
+                "url": "https://github.com/ReDoIngMods/Network-Checksum-Disabler/releases/download/v1.1.0/NetworkChecksumDisabler.dll",
+                "currentHash": "ac4c1bbda55dc31db6219e30daf372de21874a96623b5727f248d8675c8b2a2b",
+                "validHash": "ac4c1bbda55dc31db6219e30daf372de21874a96623b5727f248d8675c8b2a2b",
                 "hashMatch": true
             }
         ],
-        "total_downloads": 188,
-        "stars": 0,
+        "total_downloads": 168,
+        "stars": 5,
         "contributors": [
-            "crackx02"
+            "VeraDev0",
+            "crackx02",
+            "BenMcAvoy"
         ],
-        "icon": "https://opengraph.githubassets.com/db4a0a0f6f7c93ca5802cb46782a7f9a659262bfa946663cf69acdd743785acb/crackx02/LuaWatchdog",
+        "icon": "https://opengraph.githubassets.com/e956cacdeff665e38e23ec812fd056ac0414a45913b6f88753dd9bdfe6727b4b/ReDoIngMods/Network-Checksum-Disabler",
         "mismatched_hashes": []
     },
     {
@@ -171,12 +103,80 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 401,
+        "total_downloads": 402,
         "stars": 5,
         "contributors": [
             "QuestionableM"
         ],
         "icon": "https://opengraph.githubassets.com/bd83c4736527a22ab21904d6c800f29a14b3aa5bdbea0abd06b4536bf0b223b4/QuestionableM/SM-DynamicSun",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Time Scale Modifier",
+        "full_name": "crackx02/SM-TimeScaleModifier",
+        "url": "https://github.com/crackx02/SM-TimeScaleModifier",
+        "description": "A simple Time Scale Modifier mod for Scrap Mechanic that adds a slider into the gameplay settings",
+        "downloads": [
+            {
+                "name": "TimeScaleModifier.dll",
+                "url": "https://github.com/crackx02/SM-TimeScaleModifier/releases/download/v1.0.0/TimeScaleModifier.dll",
+                "currentHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
+                "validHash": "ed82fabf9d1ef26486de8dca52245802216a04b412a637cfd1825741210610e8",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 223,
+        "stars": 3,
+        "contributors": [
+            "crackx02",
+            "QuestionableM"
+        ],
+        "icon": "https://opengraph.githubassets.com/7ea8c82e0ca5556c6752e161faf9cbbd86ce65f4bf30a1cfa22678ea33eebc35/crackx02/SM-TimeScaleModifier",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Networking Fix",
+        "full_name": "Scrap-Mods/networking-fix",
+        "url": "https://github.com/Scrap-Mods/networking-fix",
+        "description": "Stops Scrap Mechanic client from stalling packets",
+        "downloads": [
+            {
+                "name": "NetworkingFix.dll",
+                "url": "https://github.com/Scrap-Mods/networking-fix/releases/download/v1.0.3/NetworkingFix.dll",
+                "currentHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
+                "validHash": "4411a7859515b0def05dc07d2d9813230186d4e0712fb1e5e45ba8f7444d6544",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 723,
+        "stars": 12,
+        "contributors": [
+            "ColdMeekly",
+            "QuestionableM"
+        ],
+        "icon": "https://opengraph.githubassets.com/2efab48e09c27c48ce6559bd74d7b9246814b7fb5a4f205ae70ef21d12340f81/Scrap-Mods/networking-fix",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Dev Check Bypass",
+        "full_name": "ScrappySM/DevCheckBypass",
+        "url": "https://github.com/ScrappySM/DevCheckBypass",
+        "description": "Bypasses the Scrap Mechanic developer flag check between client and server",
+        "downloads": [
+            {
+                "name": "DevCheckBypass.dll",
+                "url": "https://github.com/ScrappySM/DevCheckBypass/releases/download/v1.0.1/DevCheckBypass.dll",
+                "currentHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
+                "validHash": "4c7aeefada7e31bb16545b77ada12a7a6911527566bea3ddc7028501fb96397a",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 244,
+        "stars": 2,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/9a3f725cab101534f51eb7cff9d0d36797d932b3c17c7f1e77950b26fdaeade9/ScrappySM/DevCheckBypass",
         "mismatched_hashes": []
     },
     {
@@ -193,35 +193,12 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 383,
+        "total_downloads": 387,
         "stars": 16,
         "contributors": [
             "QuestionableM"
         ],
         "icon": "https://repository-images.githubusercontent.com/752147751/8e0c3176-464e-4262-a7d4-fcd9f8c72436",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "No File Exist Error",
-        "full_name": "ReDoIngMods/SM-NoFileExistError",
-        "url": "https://github.com/ReDoIngMods/SM-NoFileExistError",
-        "description": "Removes that pesky \"Unable to replace key for path\" error which gets used in sm.json.fileExists!",
-        "downloads": [
-            {
-                "name": "SM-NoFileExistError.dll",
-                "url": "https://github.com/ReDoIngMods/SM-NoFileExistError/releases/download/v1.0/SM-NoFileExistError.dll",
-                "currentHash": "9c3f2c66b1a2b361dd6b97b95f3994ae5633f06a851db2c4eec8c5c98c943337",
-                "validHash": "9c3f2c66b1a2b361dd6b97b95f3994ae5633f06a851db2c4eec8c5c98c943337",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 266,
-        "stars": 2,
-        "contributors": [
-            "BenMcAvoy",
-            "VeraDev0"
-        ],
-        "icon": "https://opengraph.githubassets.com/950edc37b8dcd313bfa493b339fa638ad559b26c2a70eed9e218ededca11b3b8/ReDoIngMods/SM-NoFileExistError",
         "mismatched_hashes": []
     },
     {
@@ -238,57 +215,13 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 274,
+        "total_downloads": 275,
         "stars": 0,
         "contributors": [
             "StoodJarguar657",
             "BenMcAvoy"
         ],
         "icon": "https://opengraph.githubassets.com/69b44ad365cdb4a965f41774cae68210f5510af5f12a496d8cae377a829d0f32/StoodJarguar657/SMGuiRefresh",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Key API",
-        "full_name": "ScrappySM/SM-KeyAPI",
-        "url": "https://github.com/ScrappySM/SM-KeyAPI",
-        "description": "Allows you to check if any key is down from the SM Lua API (extends the API)",
-        "downloads": [
-            {
-                "name": "SM-KeyAPI.dll",
-                "url": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll",
-                "currentHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
-                "validHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 276,
-        "stars": 1,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/6ef0ffa34bd4c6593713f543b3e742dac8575c94c8cc7a714ebdee56ae451599/ScrappySM/SM-KeyAPI",
-        "mismatched_hashes": []
-    },
-    {
-        "name": "Lua Console",
-        "full_name": "ScrappySM/SM-LuaConsole",
-        "url": "https://github.com/ScrappySM/SM-LuaConsole",
-        "description": "A Lua Console for Scrap Mechanic, allows you to execute Lua once, on Lua env initialization and every tick.",
-        "downloads": [
-            {
-                "name": "SM-LuaConsole.dll",
-                "url": "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll",
-                "currentHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
-                "validHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
-                "hashMatch": true
-            }
-        ],
-        "total_downloads": 294,
-        "stars": 0,
-        "contributors": [
-            "BenMcAvoy"
-        ],
-        "icon": "https://opengraph.githubassets.com/d917bd3d6f6e2595bebcfe00bffb6aa4da52f50be329451bc79f26fd3cbc93fe/ScrappySM/SM-LuaConsole",
         "mismatched_hashes": []
     },
     {
@@ -305,7 +238,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 265,
+        "total_downloads": 266,
         "stars": 1,
         "contributors": [
             "BenMcAvoy"
@@ -327,12 +260,79 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 209,
+        "total_downloads": 210,
         "stars": 0,
         "contributors": [
             "BenMcAvoy"
         ],
         "icon": "https://opengraph.githubassets.com/c905dc1dc59b149e254f562a197e69790d4960c29ff080c83bb67c67bdbe4019/ScrappySM/SM-ForceDevMode",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "No File Exist Error",
+        "full_name": "ReDoIngMods/SM-NoFileExistError",
+        "url": "https://github.com/ReDoIngMods/SM-NoFileExistError",
+        "description": "Removes that pesky \"Unable to replace key for path\" error which gets used in sm.json.fileExists!",
+        "downloads": [
+            {
+                "name": "SM-NoFileExistError.dll",
+                "url": "https://github.com/ReDoIngMods/SM-NoFileExistError/releases/download/v1.0/SM-NoFileExistError.dll",
+                "currentHash": "9c3f2c66b1a2b361dd6b97b95f3994ae5633f06a851db2c4eec8c5c98c943337",
+                "validHash": "9c3f2c66b1a2b361dd6b97b95f3994ae5633f06a851db2c4eec8c5c98c943337",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 267,
+        "stars": 2,
+        "contributors": [
+            "BenMcAvoy",
+            "VeraDev0"
+        ],
+        "icon": "https://opengraph.githubassets.com/950edc37b8dcd313bfa493b339fa638ad559b26c2a70eed9e218ededca11b3b8/ReDoIngMods/SM-NoFileExistError",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Lua Console",
+        "full_name": "ScrappySM/SM-LuaConsole",
+        "url": "https://github.com/ScrappySM/SM-LuaConsole",
+        "description": "A Lua Console for Scrap Mechanic, allows you to execute Lua once, on Lua env initialization and every tick.",
+        "downloads": [
+            {
+                "name": "SM-LuaConsole.dll",
+                "url": "https://github.com/ScrappySM/SM-LuaConsole/releases/download/v1.0.0/SM-LuaConsole.dll",
+                "currentHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
+                "validHash": "1146f74439293a548cfacd30c808f5a36f3c5bc2ebe02385031463211b9151f3",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 295,
+        "stars": 0,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/d917bd3d6f6e2595bebcfe00bffb6aa4da52f50be329451bc79f26fd3cbc93fe/ScrappySM/SM-LuaConsole",
+        "mismatched_hashes": []
+    },
+    {
+        "name": "Key API",
+        "full_name": "ScrappySM/SM-KeyAPI",
+        "url": "https://github.com/ScrappySM/SM-KeyAPI",
+        "description": "Allows you to check if any key is down from the SM Lua API (extends the API)",
+        "downloads": [
+            {
+                "name": "SM-KeyAPI.dll",
+                "url": "https://github.com/ScrappySM/SM-KeyAPI/releases/download/v1.0.3/SM-KeyAPI.dll",
+                "currentHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
+                "validHash": "dff9fc9b253527c218a51192ed711e0970e862cbd2f19658a1aad6a505048d39",
+                "hashMatch": true
+            }
+        ],
+        "total_downloads": 277,
+        "stars": 1,
+        "contributors": [
+            "BenMcAvoy"
+        ],
+        "icon": "https://opengraph.githubassets.com/6ef0ffa34bd4c6593713f543b3e742dac8575c94c8cc7a714ebdee56ae451599/ScrappySM/SM-KeyAPI",
         "mismatched_hashes": []
     },
     {
@@ -349,7 +349,7 @@
                 "hashMatch": true
             }
         ],
-        "total_downloads": 375,
+        "total_downloads": 376,
         "stars": 14,
         "contributors": [
             "QuestionableM"
